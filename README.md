@@ -1,2 +1,8 @@
-# hello-world
-To get started with git.
+%# hello-world
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << " Hello world" << endl;
+}
